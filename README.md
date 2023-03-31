@@ -1,6 +1,5 @@
 # factored-test
-This is a technical test for Factored
-Coded by Melina Raigosa Gallego using FastAPI and REACT.
+This is a technical assesment for Factored coded by Melina Raigosa Gallego using FastAPI and REACT.
 
 ## Description:
 This application renders functional login page for imaginary employees of Factored. 
